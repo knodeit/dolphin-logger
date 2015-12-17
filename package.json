@@ -1,7 +1,7 @@
 {
     "name": "dolphin-logger",
-    "version": "0.0.3",
-    "preferGlobal": true,
+    "version": "0.0.4",
+    "preferGlobal": false,
     "description": "Logger",
     "author": {
         "name": "LPG Labs"
